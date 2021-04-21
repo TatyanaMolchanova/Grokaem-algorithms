@@ -28,5 +28,4 @@ let binary_search = (arr, x) => {
 
 
 
-
 console.log('result', binary_search([1,2,3,4,5,6,70,87,91,100], 91))
