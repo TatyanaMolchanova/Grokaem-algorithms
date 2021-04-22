@@ -9,5 +9,5 @@ log10(128)
 console.log(Math.log2(128));
 // 7
 
-console.log(Math.log2(256));
+console.log(Math.log2(1000000000));
 // 8
