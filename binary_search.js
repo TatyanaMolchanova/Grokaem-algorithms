@@ -1,15 +1,15 @@
 
 let binary_search = (arr, x) => {
-    low = 0
-    high = arr.length - 1
+    let low = 0
+    let high = arr.length - 1
     console.log('high', high)
     
     
 
     while (low <= high) {
-        mid = Math.floor((low + high) / 2)
+        const mid = Math.floor((low + high) / 2)
         console.log('mid', mid)
-        guess = arr[mid]
+        const guess = arr[mid]
 
         if (guess == x) {
             return mid
@@ -28,4 +28,4 @@ let binary_search = (arr, x) => {
 
 
 
-console.log('result', binary_search([1,2,3,4,5,6,70,87,91,100], 1))
+console.log('result', binary_search([1,2,3,4,5,6,70,87,91,100], 70))
