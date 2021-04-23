@@ -32,3 +32,5 @@ const selectionSort = arr => {
 console.log('selectionSort', selectionSort([9, 45, 1,3,6,8,66]))
 
 // console.log('res', selectionSort([5, 3, 6, 2, 10]))
+
+// 59 page file:///C:/Users/tanyamt/Desktop/%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20(%20PDFDrive%20).pdf
