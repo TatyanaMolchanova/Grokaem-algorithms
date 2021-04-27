@@ -1,2 +1,2 @@
 # Grokking-algorithms
-Working Code on JavaScript, JS
+Working Code on JavaScript, JS from book Grokking Algorithms (Грокаем алгоритмы).
